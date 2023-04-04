@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/thumb">
+        <file>icon/down.png</file>
+        <file>icon/downest.png</file>
+        <file>icon/empty.png</file>
+        <file>icon/shark.png</file>
+        <file>icon/start.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/up.png</file>
+    </qresource>
+</RCC>

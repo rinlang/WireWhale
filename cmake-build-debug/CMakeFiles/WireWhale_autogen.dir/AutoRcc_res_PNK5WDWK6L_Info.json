@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug/WireWhale_autogen",
+	"CMAKE_BINARY_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src",
+	"CMAKE_SOURCE_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src",
+	"INCLUDE_DIR" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug/WireWhale_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/shark.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/stop.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/up.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/down.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/empty.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/downest.png",
+		"/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/icon/start.png"
+	],
+	"LOCK_FILE" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug/CMakeFiles/WireWhale_autogen.dir/AutoRcc_res_PNK5WDWK6L_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "PNK5WDWK6L",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/cmake-build-debug/CMakeFiles/WireWhale_autogen.dir/AutoRcc_res_PNK5WDWK6L_Used.txt",
+	"SOURCE" : "/home/rinlang/Project/C_C++/\u76db\u4e16\u6587_2022E8018682130_ex1A_src/res/res.qrc",
+	"VERBOSITY" : 0
+}
